@@ -1,0 +1,10 @@
+{
+  "full_name": "JOHN DOE",
+  "dob": "1996-03-15",
+  "expiry_date": "2027-04-14",
+  "document_number": "963545637",
+  "sex": "M",
+  "nationality": "USA",
+  "address": null,
+  "document_type": "Passport"
+}

@@ -1,0 +1,10 @@
+{
+  "full_name": "John Q. Public",
+  "dob": "1952-05-28",
+  "expiry_date": "2029-05-28",
+  "document_number": "000123456789",
+  "sex": "M",
+  "nationality": null,
+  "address": "1234 YOUR STREET, YOUR CITY, NC 99999-1234",
+  "document_type": "Driver License"
+}
